@@ -1,0 +1,44 @@
+.body{
+	background: white;
+	background: -webkit-linear-gradient(yellow, blue, red, white);
+}
+.h1{
+	color: orange;
+	font-size: 60px;
+	position: absolute;
+	top: 0px;
+	left: 300px;
+	font-family: Arial, Helvectia, sans-serif;
+}
+.note{
+	color: orange;
+	position: absolute;
+	top: 200px;
+}
+.winrar{
+	color: pink;
+}	
+.href0{
+	font-size: 25px;
+	padding-left: 35px;
+	padding-right: 35px;
+	position: absolute;
+	left: 10px;
+	top: 0;
+	text-decoration: none;
+	border-color: orange;
+	border-style: solid;
+	border-width: 5px;
+	color: black;
+}
+.href{
+	font-size: 25px;
+	text-decoration: none;
+	position: absolute;
+	left: 150px;
+	top: 0px;
+	border-color: orange;
+	border-style: solid;
+	border-width: 5px;
+	color: black;
+}
